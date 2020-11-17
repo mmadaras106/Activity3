@@ -1,0 +1,6 @@
+Image 1: shade flat
+Image 2: shade smooth
+Image 3: shade flat with modifier
+Image 4: shade smooth with modifier
+The shade smooth made the polygonal mesh that the sphere is made of much less noticeable than the shade flat.
+THe same with the modifier, but the shade flat with modifier had much smaller polygons, though they were still noticeable.
